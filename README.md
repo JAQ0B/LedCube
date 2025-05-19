@@ -18,7 +18,7 @@ Some animations worked well, while others were harder to make visually effective
 
 ## ⚙️ Key Features
 
-- 4x4x4 LED cube built from scratch and driven by shift registers
+- 4x4x4 LED cube built from scratch
 - Powered by an **ESP32** with integrated Wi-Fi
 - Built-in **web interface** to control animations in real-time
 - Modular animation logic with the ability to expand
