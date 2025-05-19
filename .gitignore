@@ -1,0 +1,5 @@
+WifiCredentials.h
+
+# VS Code
+.vscode/
+*.code-workspace
