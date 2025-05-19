@@ -1,6 +1,6 @@
 # 🔲 LED Cube – ESP32-Controlled Web Interface Project
 
-![LED Cube Photo](assets/ledcube.jpg)
+![LED Cube Photo](/LedCube.jpg)
 
 > A personal hardware project where I built a 4x4x4 LED Cube powered by an ESP32, featuring a custom web interface to control animations in real time.
 
@@ -39,9 +39,3 @@ This project is **not actively maintained**, but I **welcome contributions** —
 
 Feel free to fork the repo and show off your own animations!
 
----
-
-## 📸 LED Cube Preview
-
-
-![LED Cube Front View](/LedCube.jpg)
